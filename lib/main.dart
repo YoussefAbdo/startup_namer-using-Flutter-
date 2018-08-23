@@ -12,7 +12,7 @@ class MyApp extends StatelessWidget {
         primaryColor: Colors.white,
       ),
       home: RandomWords(),
-    );  
+    );
   }
 }
 
